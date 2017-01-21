@@ -1,5 +1,4 @@
 ![alt tag](https://raw.github.com/dogfalo/materialize/master/images/materialize.gif)
 ===========
-
-## Contributing 
-John Fernandes
+## About
+My Personal Website
