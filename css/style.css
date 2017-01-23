@@ -159,6 +159,7 @@ footer
 .nameBlock {
 	/*background-color: #1976D2;*/
 	background-color: transparent;
+	padding: 20px;
 }
 
 .navBar {
@@ -171,4 +172,13 @@ footer
 
 .blur {
 	/*filter: blur(10px);*/
+}
+
+.collapsible {
+	color: black;
+	background-color: white;
+}
+
+.profileTab {
+	background: #424242;
 }
