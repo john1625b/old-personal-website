@@ -153,3 +153,22 @@ footer
 {
 	padding-top: 0px;
 }
+
+
+/*block behind John Fernandes*/
+.nameBlock {
+	/*background-color: #1976D2;*/
+	background-color: transparent;
+}
+
+.navBar {
+	background-color: #424242;
+}
+
+.about {
+	color: white;
+}
+
+.blur {
+	/*filter: blur(10px);*/
+}
