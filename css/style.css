@@ -1,6 +1,13 @@
 body, html
 {
 	background-color: #EDEDED !important;
+	/*sets background to website*/
+	/*background: url(http://cdn.wccftech.com/wp-content/uploads/2015/10/wp_011.jpg);*/
+	background: url(http://samsung-wallpapers.com/uploads/allimg/151008/1-15100R34218.jpg);
+	background: url(http://www.androidguys.com/wp-content/uploads/2015/10/default_wallpaper.jpg);
+	background-size: cover;
+	/*background: url(../res/nexus5xWallpaper.png);*/
+	blur: blur(10px);
 }
 
 .intro
