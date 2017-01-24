@@ -3,7 +3,8 @@ body, html
 	background-color: #EDEDED !important;
 	/*sets background to website*/
 	/*background: url(http://cdn.wccftech.com/wp-content/uploads/2015/10/wp_011.jpg);*/
-	background: url(http://samsung-wallpapers.com/uploads/allimg/151008/1-15100R34218.jpg);
+	/*background: url(http://samsung-wallpapers.com/uploads/allimg/151008/1-15100r34218.jpg);*/
+	background: url(background.jpg);
 	background: url(http://www.androidguys.com/wp-content/uploads/2015/10/default_wallpaper.jpg);
 	background-size: cover;
 	/*background: url(../res/nexus5xWallpaper.png);*/
@@ -51,7 +52,11 @@ body, html
 {
 	text-align: center;
 	text-transform: uppercase;
-	margin-bottom: 45px;
+	margin-bottom: 20px;
+	/*background: rgba(66, 66, 66, 0.3);*/
+	background: rgba(37, 0, 242, 0.88);
+	background: rgba(71, 79, 177, 0.2); /* fallback color*/
+	padding: 10px;
 }
 
 .about hr
@@ -80,13 +85,15 @@ body, html
 	text-align: center;
 	text-transform: uppercase;
 	margin-bottom: 15px;
+	color: white;
 }
 
 .portfolio h6
 {
 	text-align: center;
 	text-transform: uppercase;
-	margin-bottom: 45px;
+	margin-bottom: 15px;
+	color: white;
 }
 
 .portfolio hr
@@ -179,6 +186,15 @@ footer
 	background-color: white;
 }
 
-.profileTab {
+.profileCard {
 	background: #424242;
 }
+
+.footer-copyright {
+	background: #424242;
+}
+
+.row {
+	margin-bottom: 5px;
+}
+
