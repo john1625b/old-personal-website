@@ -188,6 +188,7 @@ footer
 
 .profileCard {
 	background: #424242;
+	height: 490px;
 }
 
 .footer-copyright {
@@ -201,4 +202,5 @@ footer
 .skillsCard {
 	background: #424242;
 	padding: 10px;
+	height: 490px;
 }
