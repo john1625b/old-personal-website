@@ -1,13 +1,8 @@
 body, html
 {
 	background-color: #EDEDED !important;
-	/*sets background to website*/
-	/*background: url(http://cdn.wccftech.com/wp-content/uploads/2015/10/wp_011.jpg);*/
-	/*background: url(http://samsung-wallpapers.com/uploads/allimg/151008/1-15100r34218.jpg);*/
-	/*background: url(background.jpg);*/
 	background-image: url(../res/material-background.jpg);
 	background-size: cover;
-	/*background: url(../res/nexus5xWallpaper.png);*/
 	blur: blur(10px);
 }
 
@@ -170,7 +165,6 @@ footer
 
 /*block behind John Fernandes*/
 .nameBlock {
-	/*background-color: #1976D2;*/
 	background-color: transparent;
 	padding: 20px;
 }
@@ -184,7 +178,6 @@ footer
 }
 
 .blur {
-	/*filter: blur(10px);*/
 }
 
 .collapsible {
@@ -194,7 +187,6 @@ footer
 
 .profileCard {
 	background: #424242;
-	/*height: 490px;*/
 }
 
 .footer-copyright {
@@ -208,5 +200,4 @@ footer
 .skillsCard {
 	background: #424242;
 	padding: 10px;
-	/*height: 490px;*/
 }
